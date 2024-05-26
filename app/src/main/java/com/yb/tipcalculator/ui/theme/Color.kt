@@ -1,0 +1,37 @@
+package com.yb.tipcalculator.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val SAPPHIRE_LIGHT = Color(0xffC7C9FF)
+val SAPPHIRE_PRIMARY = Color(0xff5A5FF2)
+val SAPPHIRE_VARIANT = Color(0xff8486C3)
+val SAPPHIRE_SECONDARY = Color(0xffA5A8FF)
+
+val LIGHT_BG = Color(0xFFF9F9F7)
+val LIGHT_BG_VNT = Color(0xFFFFFFFF)
+val LIGHT_BG_VNT_NEW = Color(0xFFFFFFFF)
+
+val DARK_BG = Color(0xFF000000)
+val DARK_BG_NEW = Color(0xFF292A37)
+val BACKGROUND_DARK_LOGIN = Color(0xff292A37)
+val DARK_BG_VNT = Color(0xFF232323)
+val DARK_BG_VNT_2 = Color(0xFF0D0D0D)
+
+val SURFACE_DARK = Color(0xff35364A)
+val SURFACE_LIGHT = Color(0xffFDFDFD)
+
+val CARD_BG_DARK = Color(0xFF35364A)
+val CARD_BG_LIGHT = Color(0xFFF1F1FE)
+
+val SURFACE_VARIANT_LIGHT = Color(0xFFBDBFFA)
+val SURFACE_VARIANT_DARK = Color(0x80EDEDED)
+
+val TEXT_DARK = Color(0xFFFDFDFD)
+val TEXT_DARK_100 = Color(0xFFFFFFFF)
+
+val TEXT_LIGHT = Color(0xff1C1C1F)
+val TEXT_LIGHT_100 = Color(0xFF171717)
+val TEXT_LIGHT_60 = Color(0xFF747474)
+val TEXT_DARK_60 = Color(0xFF9E9E9E)
+val ERROR_LIGHT = Color(0xFFFF4141)
+val ERROR_DARK = Color(0xFFFF5A5A)
